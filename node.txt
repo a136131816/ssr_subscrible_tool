@@ -1,7 +1,4 @@
 # 节点列表
-
-# Other VPN
-
 ## Ladder Japan
 ssr://MTY3LjE3OS43NS4zODoxMDA1MzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46TVRJek5EVTIvP29iZnNwYXJhbT0mcmVtYXJrcz1WbEJPTFdwd013Jmdyb3VwPVZsQk9MV3B3TXc
 
